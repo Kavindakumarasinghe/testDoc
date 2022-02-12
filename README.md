@@ -1,4 +1,4 @@
-# ** README (Technical Testing Guide for Junior Java Developer) ** #
+#  README (Technical Testing Guide for Junior Java Developer)  #
 
 Please follow this document and finish the test within 1 day from the time you received this document.
 In this test we are looking for more than just the functional results, we are also looking at your capabilities and practices as a developer.
