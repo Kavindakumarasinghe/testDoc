@@ -5,7 +5,7 @@
 
 * Create two variables 
 *cols - no of columns 
-*max  - maximum multiplication table no
+*max  - maximum multiplication table number
 ```
 int max  = 9;
 int cols = 3;
